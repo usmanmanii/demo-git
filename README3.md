@@ -1,2 +1,2 @@
 "# demo-git" 
-testing 3
+test 3
